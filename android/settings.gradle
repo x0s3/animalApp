@@ -1,0 +1,3 @@
+rootProject.name = 'animalXosing'
+
+include ':app'
